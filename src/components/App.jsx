@@ -1,10 +1,10 @@
-import user from './Profile/user.json';
+import user from '../data/user.json';
 import Profile from './Profile/Profile'
-import data from './Statistics/data.json';
+import data from '../data/data.json';
 import Statistics from './Statistics/Statistics'
-import friends from './Friends/friends.json';
+import friends from '../data/friends.json';
 import FriendsList from './Friends/FriendList'
-import transactions from './Transactions/transactions.json';
+import transactions from '../data/transactions.json';
 import TransactionHistory from './Transactions/TransactionHistory'
 
 const {
