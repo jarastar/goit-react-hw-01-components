@@ -44,4 +44,3 @@ Profile.propTypes = {
 
 export default Profile;
 
-// console.log(Profile)
